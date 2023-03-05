@@ -1,0 +1,17 @@
+E:\Tugas Kuliah\Semester 4\KPL\Praktikum\TP3_1302210097\TP3_1302210097\bin\Debug\net6.0-windows\TP3_1302210097.exe
+E:\Tugas Kuliah\Semester 4\KPL\Praktikum\TP3_1302210097\TP3_1302210097\bin\Debug\net6.0-windows\TP3_1302210097.deps.json
+E:\Tugas Kuliah\Semester 4\KPL\Praktikum\TP3_1302210097\TP3_1302210097\bin\Debug\net6.0-windows\TP3_1302210097.runtimeconfig.json
+E:\Tugas Kuliah\Semester 4\KPL\Praktikum\TP3_1302210097\TP3_1302210097\bin\Debug\net6.0-windows\TP3_1302210097.dll
+E:\Tugas Kuliah\Semester 4\KPL\Praktikum\TP3_1302210097\TP3_1302210097\bin\Debug\net6.0-windows\TP3_1302210097.pdb
+E:\Tugas Kuliah\Semester 4\KPL\Praktikum\TP3_1302210097\TP3_1302210097\obj\Debug\net6.0-windows\TP3_1302210097.csproj.AssemblyReference.cache
+E:\Tugas Kuliah\Semester 4\KPL\Praktikum\TP3_1302210097\TP3_1302210097\obj\Debug\net6.0-windows\TP3_1302210097.Form1.resources
+E:\Tugas Kuliah\Semester 4\KPL\Praktikum\TP3_1302210097\TP3_1302210097\obj\Debug\net6.0-windows\TP3_1302210097.csproj.GenerateResource.cache
+E:\Tugas Kuliah\Semester 4\KPL\Praktikum\TP3_1302210097\TP3_1302210097\obj\Debug\net6.0-windows\TP3_1302210097.GeneratedMSBuildEditorConfig.editorconfig
+E:\Tugas Kuliah\Semester 4\KPL\Praktikum\TP3_1302210097\TP3_1302210097\obj\Debug\net6.0-windows\TP3_1302210097.AssemblyInfoInputs.cache
+E:\Tugas Kuliah\Semester 4\KPL\Praktikum\TP3_1302210097\TP3_1302210097\obj\Debug\net6.0-windows\TP3_1302210097.AssemblyInfo.cs
+E:\Tugas Kuliah\Semester 4\KPL\Praktikum\TP3_1302210097\TP3_1302210097\obj\Debug\net6.0-windows\TP3_1302210097.csproj.CoreCompileInputs.cache
+E:\Tugas Kuliah\Semester 4\KPL\Praktikum\TP3_1302210097\TP3_1302210097\obj\Debug\net6.0-windows\TP3_1302210097.dll
+E:\Tugas Kuliah\Semester 4\KPL\Praktikum\TP3_1302210097\TP3_1302210097\obj\Debug\net6.0-windows\refint\TP3_1302210097.dll
+E:\Tugas Kuliah\Semester 4\KPL\Praktikum\TP3_1302210097\TP3_1302210097\obj\Debug\net6.0-windows\TP3_1302210097.pdb
+E:\Tugas Kuliah\Semester 4\KPL\Praktikum\TP3_1302210097\TP3_1302210097\obj\Debug\net6.0-windows\TP3_1302210097.genruntimeconfig.cache
+E:\Tugas Kuliah\Semester 4\KPL\Praktikum\TP3_1302210097\TP3_1302210097\obj\Debug\net6.0-windows\ref\TP3_1302210097.dll
